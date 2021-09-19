@@ -1,0 +1,16 @@
+bin/
+lib/
+.idea/
+lib64
+pyvenv.cfg
+share/
+etc/
+*.ipynb_checkpoints/
+*/__pycache__
+__pycache__/
+data/
+data_sets
+stored_models
+Untitled*
+
+
