@@ -3,7 +3,7 @@
 > _Imb-intention-prediction_ is a library containing the implementation for the paper: 
 > **Vehicle Behavior Prediction and Generalization Using Imbalanced Learning Techniques**.
 > The paper has been accepted for the _24th IEEE International Conference on Intelligent Transportation Systems_ - ITSC2021 and can be accessed [here](https://arxiv.org/abs/2109.10656).
-> All code is written using Python 3 using a combination of [PyTorch](https://pytorch.org/) and [scikit-learn](https://scikit-learn.org/stable/).
+> All code is written in Python 3 using a combination of [PyTorch](https://pytorch.org/) and [scikit-learn](https://scikit-learn.org/stable/).
 > Most functionality for training and evaluation is contained within .ipynb files. We recommended using Jupyter Lab as is indicated in the requirements file.
 > Should you have any questions about the paper or the implementations found in this repository you are welcome to contact me at [_theodor.westny [at] liu.se_](https://liu.se/en/employee/thewe60).
 ![](img/prob_desc-1.png)
